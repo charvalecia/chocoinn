@@ -1,0 +1,117 @@
+*{
+	font-family: Times;
+	font-size: 16pt;
+}
+body{
+	background-image: url(img/fondo.jpg);
+}
+
+
+.lg{
+	background-color:;
+	border: solid;
+}
+.PLANTAS{
+	text-align: center;
+	font-size: 80px;
+	color: green;
+
+}
+.pl{
+	width: 40%;
+
+
+}
+
+
+.ca{
+	color: green;
+}
+
+.celda3{
+	height: 500pt;
+}
+#link{
+	background-color:;
+	text-align: center;
+}
+.pie{
+	font-size: 18px;
+	color: white;
+	text-align: center;
+	
+}
+
+h1{
+	text-align: center;
+}
+*.titulo{
+	font-family: times;
+	font-size:20pt;
+	color: green;
+}
+.PELU{
+	position: absolute;
+	border: solid;
+	width: 100px;
+	height: 100px;
+	left: 300px;
+}
+#tabla{
+	border-left:groove;
+	border-radius: 8px;
+
+	background-image: url(img/fondo2.jpg)
+	
+
+}
+
+
+
+
+
+
+	#header {
+				margin:auto;
+				width:800px;
+				font-family:Arial, Helvetica, sans-serif;
+			}
+			
+			ul, ol {
+				list-style:none;
+			}
+			
+			.nav > li {
+				float:left;
+			}
+			
+			.nav li a {
+				background-color:#000;
+				color:#fff;
+				text-decoration:none;
+				padding:10px 12px;
+				display:block;
+			}
+			
+			.nav li a:hover {
+				background-color:#434343;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:140px;
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative;
+			}
+			
+			.nav li ul li ul {
+				right:-140px;
+				top:0px;
+			}
